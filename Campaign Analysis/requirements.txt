@@ -7,3 +7,4 @@ xgboost==3.0.0
 imbalanced-learn==0.13.0
 tqdm==4.67.1
 scikit-optimize==0.10.2
+openpyxl
